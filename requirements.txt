@@ -1,0 +1,5 @@
+torch>=2.0.0
+torchvision>=0.15.0
+set_transformer @ git+https://github.com/estebanpaduro/set-transformer.git
+diffusers>=0.20.0
+matplotlib>=3.7.0
